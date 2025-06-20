@@ -6,7 +6,7 @@ A project i undertook to learn bits of low-level programming in C.
 
 This simple shell contains the following :
 -Command execution(`ls`, `pwd`, etc.)
-- Built - in `cd`, `exit`,`history` etc.
+- Built-in commands like `pwd`,`echo` `cd`, `exit`,`history` etc.
 - Background tasks using `&` - Input / output redirection : `>`, `<`
 - Single pipe support : `ls | grep.c`
 - Signal handling(`Ctrl + C` won’t quit shell)
