@@ -1,4 +1,4 @@
---Simple Shell in C--
+----Simple Shell in C----
 A minimal UNIX-style shell written in C.
 A project i undertook to learn bits of low-level programming in C.
 
