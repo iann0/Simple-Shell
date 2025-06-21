@@ -11,7 +11,7 @@ This simple shell contains the following :
 - Single pipe support : `ls | grep.c`
 - Signal handling(`Ctrl + C` won’t quit shell)
 
-----How to Run ----
+----How to Run----
 Open the folder containing the shell.c file.Run it in your code editor...or your terminal..it 's pretty much straight forward really.' 
 ---------
                                                                                        
